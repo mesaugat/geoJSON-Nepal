@@ -1,4 +1,6 @@
 geoJSON-Nepal
 =============
 
-Valid geoJSON for Nepal - districts and development regions.
+Valid geoJSON files for Districts and Development Regions of Nepal.
+
+[Demo](http://mesaugat.github.io/geoJSON-Nepal/)
