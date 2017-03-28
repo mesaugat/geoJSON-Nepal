@@ -9,6 +9,8 @@ Valid [GeoJSON](http://geojson.org/) files for Nepal:
 
 **See the GitHub demo [here](http://mesaugat.github.io/geoJSON-Nepal/).**
 
+---
+
 ### Usage:
 
 You can use the GeoJSON files with mapping libraries/services like:
