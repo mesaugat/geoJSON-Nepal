@@ -2,6 +2,7 @@
 
 Valid [GeoJSON](http://geojson.org/) files for Nepal:
 
+* States
 * Districts
 * Development Regions
 * Districts with Headquarters
