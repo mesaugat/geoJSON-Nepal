@@ -9,7 +9,9 @@ Valid [GeoJSON](http://geojson.org/) files for Nepal. 🇳🇵
 * [Districts with Headquarters](nepal-district-headquarters.geojson)
 * [Nepal Administrative Level 4 Boundaries](nepal-admin-level4.geojson)
 
-**DEMO** 👉 [https://mesaugat.github.io/geoJSON-Nepal/](https://mesaugat.github.io/geoJSON-Nepal/)
+## Demo
+
+* [https://mesaugat.github.io/geoJSON-Nepal/](https://mesaugat.github.io/geoJSON-Nepal/)
 
 ## Usage
 
