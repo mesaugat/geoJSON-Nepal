@@ -1,17 +1,19 @@
 # GeoJSON Nepal
 
-Valid [GeoJSON](http://geojson.org/) files for Nepal:
+Valid [GeoJSON](http://geojson.org/) files for Nepal. 🇳🇵
 
-* Districts
-* Development Regions
-* Districts with Headquarters
-* Nepal Administrative Level 4 Boundaries
+* [States](nepal-states.geojson)
+* [Districts](nepal-districts.geojson)
+* [Districts New (77)](nepal-districts-new.geojson)
+* [Development Regions](nepal-development-regions.geojson)
+* [Districts with Headquarters](nepal-district-headquarters.geojson)
+* [Nepal Administrative Level 4 Boundaries](nepal-admin-level4.geojson)
 
-**See the GitHub demo [here](http://mesaugat.github.io/geoJSON-Nepal/).**
+## Demo
 
----
+* [https://mesaugat.github.io/geoJSON-Nepal/](https://mesaugat.github.io/geoJSON-Nepal/)
 
-### Usage:
+## Usage
 
 You can use the GeoJSON files with mapping libraries/services like:
 
@@ -20,8 +22,6 @@ You can use the GeoJSON files with mapping libraries/services like:
 * [CartoDB](https://carto.com/blog/github-geojson-and-cartodb)
 * [Google Maps](https://developers.google.com/maps/documentation/javascript/datalayer#load_geojson)
 
----
+## License
 
-### License
-
-[MIT](LICENSE.md)
+[MIT](LICENSE)
