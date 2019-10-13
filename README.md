@@ -3,6 +3,7 @@
 Valid [GeoJSON](http://geojson.org/) files for Nepal:
 
 * Districts
+* New Districts (77 districts)
 * Development Regions
 * Districts with Headquarters
 * Nepal Administrative Level 4 Boundaries
