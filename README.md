@@ -6,6 +6,7 @@ Valid [GeoJSON](http://geojson.org/) files for Nepal. 🇳🇵
 * [Districts](nepal-districts.geojson)
 * [Districts New (77)](nepal-districts-new.geojson)
 * [Development Regions](nepal-development-regions.geojson)
+* [Municipalities](nepal-municipalities.geojson)
 * [Districts with Headquarters](nepal-district-headquarters.geojson)
 * [Nepal Administrative Level 4 Boundaries](nepal-admin-level4.geojson)
 
