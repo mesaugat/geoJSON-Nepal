@@ -14,14 +14,9 @@ Valid [GeoJSON](http://geojson.org/) files for Nepal. 🇳🇵
 
 * [https://mesaugat.github.io/geoJSON-Nepal/](https://mesaugat.github.io/geoJSON-Nepal/)
 
-## Usage
+## I want smaller GeoJSON files
 
-You can use the GeoJSON files with mapping libraries/services like:
-
-* [Leaflet](http://leafletjs.com/examples/geojson/)
-* [Mapbox](https://www.mapbox.com/help/define-geojson/)
-* [CartoDB](https://carto.com/blog/github-geojson-and-cartodb)
-* [Google Maps](https://developers.google.com/maps/documentation/javascript/datalayer#load_geojson)
+Use [Mapshaper](https://mapshaper.org/) to simplify the shapes and export it in the format that you like.
 
 ## License
 
